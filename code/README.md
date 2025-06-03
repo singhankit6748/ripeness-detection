@@ -1,20 +1,3 @@
-# code 
-File arranged
-ei-<project-name>-arduino-<version>.zip
-├── ei-<project-name>-arduino/
-│   ├── src/
-│   │   ├── model-parameters/
-│   │   ├── tflite-model/
-│   │   ├── edge-impulse-sdk/
-│   │   ├── main.cpp
-│   │   └── <classifier or impulse>.cpp/.h
-│   ├── examples/
-│   │   └── static_buffer/
-│   │       └── static_buffer.ino
-│   ├── library.properties
-│   └── README.md
-
-
 # Folder & File Explanation
 
 src: Contains all source code and the compiled ML model.It is Used to run inference on your device.
