@@ -17,5 +17,5 @@ This project uses an **ESP32-CAM** module with a **custom-trained Edge Impulse m
 ## 🚀 Getting Started
 1. **Collect and label images** of different ripeness stages.
 2. **Train model** on Edge Impulse (use MobileNet or FOMO).
-3. **Deploy model to ESP32-CAM** (download as Arduino library).
+3. **Deploy model to ESP32-CAM** (download as Arduino library)...
 4. **Flash code** using Arduino IDE with ESP32 board support...
